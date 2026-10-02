@@ -1,0 +1,21 @@
+## Interface: 16001
+## Title: Allemano Arcade
+## Notes: Small games for WoW Forever, in the Allemano look. Hangman first: guess the WoW word, alone or with a friend.
+## Author: Allemano
+## Version: 0.1.0-alpha
+## Category: Miscellaneous
+## X-Curse-Project-ID: 1722293
+## X-Allemano-Id: arcade
+## X-Allemano-Slash: /arcade
+## X-Allemano-Color: A3E635
+## OptionalDeps: LibSharedMedia-3.0, EllesmereUI
+## SavedVariables: AllemanoArcadeDB
+## IconTexture: Interface\AddOns\AllemanoArcade\Media\icon
+
+Core.lua
+UI.lua
+Games\Hangman\Words.lua
+Games\Hangman\Logic.lua
+Games\Hangman\Stats.lua
+Window.lua
+Games\Hangman\View.lua

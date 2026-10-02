@@ -1,0 +1,13 @@
+package-as: AllemanoArcade
+
+ignore:
+  - .luacheckrc
+  - .gitattributes
+  - .github
+  - docs
+  - Tests
+  - Tools
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
