@@ -1,6 +1,6 @@
 # Credits
 
-**Allemano Arcade** is part of Allemano Addons (https://allemano-site.pages.dev).
+**Allemano Arcade** is part of Allemano Addons (https://allemano.org).
 
 ## How it is made
 

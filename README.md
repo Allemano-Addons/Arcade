@@ -2,7 +2,7 @@
 
 Small games for WoW Forever, in the Allemano look. The first game is **Hangman**: guess the WoW word one letter at a time, before the attempts run out. Play with a random word from a category (raid bosses, dungeons, zones, classes, races and factions, professions, items, lore), or let a friend type a word for you on the same computer.
 
-Part of [Allemano Addons](https://allemano-site.pages.dev). Alpha: Hangman for one player or two on one computer. Connect Four, Rock Paper Scissors and Battleships are planned, and so is Hangman for a raid.
+Part of [Allemano Addons](https://allemano.org). Alpha: Hangman for one player or two on one computer. Connect Four, Rock Paper Scissors and Battleships are planned, and so is Hangman for a raid.
 
 ## Use
 
